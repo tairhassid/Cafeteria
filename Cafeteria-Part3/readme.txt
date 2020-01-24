@@ -11,7 +11,7 @@ and implemented as cpp files.
 The task was to avoid using STL (data structures, object functions and the class string)
 and templates in this part.
 
-Third part (this repository):
+Third part (this part):
 This part is based on the second part, the tasks were:
 1. Implement linked list using templates and use it instead of one of the arrays
    (the implementation is MyLinkedList, and it's used in Order.h)
